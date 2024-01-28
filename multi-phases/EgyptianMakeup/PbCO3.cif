@@ -1,0 +1,112 @@
+#------------------------------------------------------------------------------
+#$Date: 2018-07-06 21:57:31 +0300 (Fri, 06 Jul 2018) $
+#$Revision: 208880 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/00/84/9008411.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008411
+loop_
+_publ_author_name
+'Chevrier, G.'
+'Giester, G.'
+'Heger, G.'
+'Jarosch, D.'
+'Wildner, M.'
+'Zemann, J.'
+_publ_section_title
+;
+ Neutron single-crystal refinement of cerussite, PbCO~3~, and comparison with
+ other aragonite-type carbonates
+;
+_journal_coden_ASTM              ZEKRDZ
+_journal_name_full               'Zeitschrift f\"ur Kristallographie'
+_journal_page_first              67
+_journal_page_last               74
+_journal_paper_doi               10.1524/zkri.1992.199.1-2.67
+_journal_volume                  199
+_journal_year                    1992
+_chemical_compound_source        'Pribram, Czech Republic'
+_chemical_formula_sum            'C O3 Pb'
+_chemical_name_mineral           Cerussite
+_chemical_name_systematic        'Lead carbonate'
+_space_group_crystal_system      orthorhombic
+_space_group_IT_number           62
+_space_group_name_Hall           '-P 2n 2a'
+_space_group_name_H-M_alt        'P m c n'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   5.179(1)
+_cell_length_b                   8.492(3)
+_cell_length_c                   6.141(2)
+_cell_volume                     270.082
+_exptl_crystal_density_diffrn    6.572
+_cod_depositor_comments
+;
+ Merging entries 5000208 and 9008411. Marking entry 5000208 as a duplicate
+ of entry 9008411. Marking entries 5000208 and 9008411 as being related
+ to AMCSD entry 0011016.
+
+ Antanas Vaitkus,
+ 2018-07-06
+;
+_cod_original_formula_sum        'Pb C O3'
+_cod_database_code               9008411
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x+1/2,-y+1/2,z+1/2
+3 x+1/2,-y,-z
+4 -x,y+1/2,-z+1/2
+5 -x,-y,-z
+6 x+1/2,y+1/2,-z+1/2
+7 -x+1/2,y,z
+8 x,-y+1/2,z+1/2
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.01150 0.01010 0.01100 0.00000 0.00000 0.00010
+C 0.00980 0.01070 0.00870 0.00000 0.00000 0.00000
+O1 0.02060 0.01160 0.01830 0.00000 0.00000 0.00280
+O2 0.01100 0.01810 0.02160 0.00320 0.00110 -0.00330
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_calc_flag
+Pb Pb2+ 4 c 0.25 0.41702(7) 0.24560(12) 1 d
+C C4+ 4 c 0.25 0.76221(11) 0.08718(15) 1 d
+O1 O2- 4 c 0.25 0.91299(14) 0.09649(20) 1 d
+O2 O2- 8 d 0.46445(14) 0.68597(9) 0.08893(14) 1 d
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+C4+ 4
+O2- -2
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0011016

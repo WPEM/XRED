@@ -1,0 +1,75 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 14:49:47 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176465 $
+#$URL: svn://www.crystallography.net/cod/cif/9/00/82/9008250.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008250
+loop_
+_publ_author_name
+'Venetopoulos, C. C.'
+'Rentzeperis, P. J.'
+_publ_section_title
+;
+ The crystal structure of laurionite, Pb(OH)Cl
+;
+_journal_name_full               'Zeitschrift fur Kristallographie'
+_journal_page_first              246
+_journal_page_last               259
+_journal_volume                  141
+_journal_year                    1975
+_chemical_formula_sum            'Cl H O Pb'
+_chemical_name_mineral           Laurionite
+_space_group_IT_number           62
+_symmetry_space_group_name_Hall  '-P 2n 2ac'
+_symmetry_space_group_name_H-M   'P c m n'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   9.6987
+_cell_length_b                   4.0203
+_cell_length_c                   7.1110
+_cell_volume                     277.270
+_exptl_crystal_density_diffrn    6.220
+_cod_original_formula_sum        'Pb O H Cl'
+_cod_database_code               9008250
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,1/2-y,z
+-x,1/2+y,-z
+1/2+x,1/2+y,1/2-z
+1/2-x,1/2-y,1/2+z
+1/2-x,y,1/2+z
+1/2+x,-y,1/2-z
+-x,-y,-z
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.02287 0.00917 0.01768 0.00000 0.00943 0.00000
+O 0.01191 0.00041 0.03100 0.00000 0.00210 0.00000
+Cl 0.01763 0.01097 0.01537 0.00000 0.00105 0.00000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb 0.08770 0.25000 0.79736 0.01672
+O 0.04220 0.25000 0.12230 0.01469
+H 0.11000 0.25000 0.22300 0.03800
+Cl 0.82020 0.25000 0.55640 0.01520

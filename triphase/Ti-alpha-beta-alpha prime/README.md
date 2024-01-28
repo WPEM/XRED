@@ -1,0 +1,1 @@
+The Alpha Prime phase has a similar lattice structure to the Alpha phase. They share the same reference structure: alpha.cif.
