@@ -16,7 +16,7 @@ X-ray phase Identification public Experimental Dataset (XRed)
 + The main purpose of this library is to provide a fair comparison platform for XRD powder diffraction phase identification, thereby promoting the advancement of XRD powder diffraction techniques.
 
 ## cite
-    X-ray phase Recognition public Experimental Dataset (XRed), <https://github.com/Bin-Cao/XRed> (2024).
+    X-ray phase Recognition public Experimental Dataset (XRed), <https://github.com/WPEM/XRED> (2024).
 
 
 <h1 align="center">
