@@ -1,9 +1,10 @@
 
 <h1 align="center">
-  <a href=""><img src="https://github.com/Bin-Cao/XRed/assets/86995074/2017fb47-9a22-440c-9008-98a1f08dfa3c" alt="XRed" width="200"></a>
+  <a href=""><img src="https://github.com/WPEM/XRED/assets/86995074/9cd0ab99-40a6-49f7-a7c5-95bf5e799e1e" alt="XRed" width="200"></a>
   <br>
   <br>
 </h1>
+
 
 
 
@@ -19,9 +20,6 @@ X-ray phase Identification public Experimental Dataset (XRed)
     X-ray phase Recognition public Experimental Dataset (XRed), <https://github.com/WPEM/XRED> (2024).
 
 
-<h1 align="center">
-  <a href=""><img src="https://github.com/Bin-Cao/XRed/assets/86995074/2a8138f8-7b7a-4e15-addb-ab32a1426308" alt="Xred" width="250"></a>
-</h1>
 
 ## vision
 Feel free to contribute to our community-driven initiative by uploading your files. **Follow the specified format for file uploads: create a folder named after the material, and include crystal CIF files along with corresponding experimental data files. And include a source file with each upload, containing the name of the uploader and their affiliated organization.** This systematic organization ensures clarity and ease of access for users exploring the database.
