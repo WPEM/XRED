@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href=""><img src="https://github.com/WPEM/XRED/assets/86995074/9cd0ab99-40a6-49f7-a7c5-95bf5e799e1e" alt="XRed" width="200"></a>
+  <a href=""><img src="https://github.com/WPEM/XRED/assets/86995074/9cd0ab99-40a6-49f7-a7c5-95bf5e799e1e" alt="XRed" width="150"></a>
   <br>
   <br>
 </h1>
