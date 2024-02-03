@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-X-ray phase Identification public Experimental Dataset (XRed)
+X-Ray phase Identification public Experimental Dataset (XRed)
 
 + This is a publicly accessible database designed for X-ray diffraction primary phase identification. 
 
