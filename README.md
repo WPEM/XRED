@@ -24,6 +24,5 @@ Your collaborative efforts in sharing valuable resources will not only enrich th
 
 We will eliminate the diffraction background for all uploaded files and process them using [WPEM](https://github.com/Bin-Cao/WPEM) to meet the requirements of various algorithms. If necessary, we provide WPEM refinement services for crystal structure determination. For inquiries, please contact Dr. Cao (bcao686@connect.hkust-gz.edu.cn).
 
-<h1 align="center">
-  <a href=""><img src="https://github.com/Bin-Cao/WPEM/assets/86995074/65b44e3f-257b-4ea7-8b54-174a1359449f" alt="WPEM" width="500"></a>
-</h1>
+### [SimXRD-4M](https://github.com/Bin-Cao/SimXRD)
+**SimXRD** comprises 4,065,346 simulated powder X-ray diffraction patterns, representing 119,569 distinct crystal structures under 33 simulated conditions that mimic realworld variations. [**arxiv**](https://arxiv.org/pdf/2406.15469v1)
