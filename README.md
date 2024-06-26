@@ -11,7 +11,7 @@
 - The main purpose of this library is to provide a fair comparison platform for XRD powder diffraction phase identification, thereby promoting the advancement of XRD powder diffraction techniques.
 
 
-## [WPEM ](https://bin-cao.github.io/caobin/-wpem)
+## WPEM [Applications](https://bin-cao.github.io/caobin/-wpem)
 
    
 ## Vision
