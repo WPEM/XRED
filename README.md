@@ -10,10 +10,10 @@
 - The dataset available to the public is experimental data provided by us as open source.
 - The main purpose of this library is to provide a fair comparison platform for XRD powder diffraction phase identification, thereby promoting the advancement of XRD powder diffraction techniques.
 
-## Cite
 
-    X-ray phase Recognition public Experimental Dataset (XRed), <https://github.com/WPEM/XRED> (2024).
+## [WPEM ](https://bin-cao.github.io/caobin/-wpem)
 
+   
 ## Vision
 
 Feel free to contribute to our community-driven initiative by uploading your files. **Follow the specified format for file uploads: create a folder named after the material, and include crystal CIF files along with corresponding experimental data files. Also, include a source file with each upload, containing the name of the uploader and their affiliated organization.** This systematic organization ensures clarity and ease of access for users exploring the database.
